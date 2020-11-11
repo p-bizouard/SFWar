@@ -1,0 +1,188 @@
+body {
+	background-color: #b9c0cb;/* b9c0cb // 6983A3 // 717D8D // A0AAB8 // 6C7B91//47515F/8118A3 */
+	font-size: 8pt;
+	color: #000;
+	font-family: verdana;
+	text-align:justify;
+	margin : 0px;
+	padding :0px;
+}
+
+/* Style des liens */
+A:link {font-size: 8pt ; text-decoration: underline ; color: #47515F ; font-family: verdana; }
+A:visited {font-size: 8pt ; text-decoration: underline ; color: #47515F ; font-family: verdana;}
+A:hover { cursor:pointer; color: #FFF ; font-size: 8pt ; text-decoration: none ; font-family: verdana;}
+a:link.sansurligne{ font-size: 8pt ; text-decoration: none ; color: #47515F ; font-family: verdana; }
+
+.a
+{
+	font-size: 8pt;
+	text-decoration: underline;
+	color: #47515F;
+	font-family: verdana;
+}
+p
+{
+	font-size: 8pt;
+	color: #000;
+	font-family: verdana;
+	text-align:justify;
+}
+pre
+{
+	font-size: 8pt;
+	color: #000;
+	font-family: verdana;
+	text-align:justify;
+}
+p.erreur
+{
+	font-size: 7pt;
+	color: #FF0000;
+	font-family: verdana;
+	text-align:justify;
+}
+p.center
+{
+	font-size: 8pt;
+	color: #000;
+	font-family: verdana;
+	text-align:center;
+}
+
+li
+{
+	font-size: 8pt;
+	color: #000;
+	font-family: verdana;
+	text-align:justify;
+}
+
+p.decale
+{
+        text-indent: 1cm;
+	font-size: 8pt;
+	color: #000;
+	font-family: verdana;
+	text-align:justify;
+}
+
+td
+{
+	font-size: 8pt;
+	color: #000;
+	font-family: verdana;
+}
+img.max
+{
+	max-width:400px;
+}
+/* Style des écritutes dans les td avec  class="Mcadre" */
+
+td.titre
+{
+    font-weight: bold;
+    font-size: 8pt;
+    font-family: verdana;
+    color: #000000;
+	padding-right: 10px;
+	padding-left: 30px;
+}
+
+
+.Ttexte
+{
+    font-weight: bold;
+    font-size: 10pt;
+    font-family: verdana;
+    color: #ffffff;
+	text-align: left;
+	padding-right: 10px;
+	padding-left: 20px;
+}
+
+
+.texte
+{
+    font-weight : normal;
+    font-size: 8pt;
+    font-family: verdana;
+    color: #000;
+}
+.titre
+{
+    font-weight: bold;
+    font-size: 10pt;
+    font-family: verdana;
+    color: #000;
+}
+
+
+.formulaire
+{
+    font-weight : normal;
+    font-size: 8pt;
+    font-family: verdana;
+    color: black;
+	background: white;
+}
+
+.form
+{
+    font-weight : normal;
+    font-size: 8pt;
+    font-family: verdana;
+    color: #000;
+}
+
+
+.bas_page
+{
+    font-weight : bold;
+    font-size: 8pt;
+    font-family: verdana;
+    text-align: center;
+    color: #6983a3;
+}
+
+input {
+    font-weight : normal;
+    font-size: 8pt;
+    font-family: verdana;
+    color: black;
+	background: white;
+}
+
+select {
+    font-weight : normal;
+    font-size: 8pt;
+    font-family: verdana;
+    color: black;
+	background: white;
+}
+
+.hidden
+{
+ visibility: hidden;
+}
+
+.visible
+{
+	font-size: 8pt;
+	color: #000;
+	font-family: verdana;
+	text-align:justify;
+ visibility: visible;
+}
+
+hr {
+  width:100%;
+}
+
+div.tete
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: verdana;
+    COLOR: #000;
+}
